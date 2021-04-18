@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.wrapper1{
+    background-color: blue;
+    float: left;
+    width: 30%;
+    margin-top: 0;
+    color: white;
+    padding-top: 0;
+    clear: both;
+
+}
+
+.img{
+    width: 80px;
+}
+
+img{
+    height: 300px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    margin: auto;
+    
+    
+}
+
+.wrapper2{
+    margin-right: 20px;
+    padding-left: 500px;
+    margin-top: 0;
+    padding-top: 0;
+    background-color: white;
+    float: none;
+    
+
+}
+
+h1{
+    color: blue;
+}
+
+
+
+.contact{
+    padding-left: 10px;
+}
+
+hr{
+    size: 10px;
+}
